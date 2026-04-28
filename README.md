@@ -1,5 +1,12 @@
 # SPL Spatial Systems - XRCore Ecosystem
 
+[![Unity](https://img.shields.io/badge/Unity-2022%2B%20%7C%20Unity%206-black)](https://unity.com/)
+[![Category](https://img.shields.io/badge/Category-AI%20%2F%20XR%20Training-1f6feb)](https://github.com/splibiplay?tab=repositories)
+[![Suite](https://img.shields.io/badge/Suite-XRCore%20Ecosystem-7a3cff)](https://github.com/splibiplay?tab=repositories)
+[![Architecture](https://img.shields.io/badge/Architecture-Event--Driven-0ea5e9)](https://github.com/splibiplay/xrcore-sdk)
+[![Publisher](https://img.shields.io/badge/Publisher-SPL%20Spatial%20Systems-ec4899)](https://github.com/splibiplay)
+[![License](https://img.shields.io/badge/License-MIT-84cc16)](https://github.com/splibiplay/xrcore-sdk/blob/main/LICENSE)
+
 Official XRCore product suite for Unity XR by SPL.
 
 ## XRCore Ecosystem
