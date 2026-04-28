@@ -1,6 +1,6 @@
-# SPL XR - XRCore Ecosystem
+# SPL Spatial Systems - XRCore Ecosystem
 
-Official XRCore product suite for Unity XR.
+Official XRCore product suite for Unity XR by SPL.
 
 ## XRCore Ecosystem
 
@@ -26,8 +26,8 @@ Official XRCore product suite for Unity XR.
 
 ## Demo Videos
 
-- SDK demo: coming soon
-- Training Toolkit demo: coming soon
+- SDK demo: [XRCore SDK Demo](https://github.com/splibiplay/xrcore-sdk/raw/main/XRCore_Demo.mp4)
+- Training Toolkit demo: [XRCore Training Toolkit Demo](https://www.youtube.com/watch?v=NmwTmtryts8&list=PLdX4Fo1P__hpMhe5PJsSRt3a8O02E0dr3&index=2)
 - Training Assessment demo: [XRCore Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
 
 ## Asset Store
