@@ -1,4 +1,4 @@
-# SPL Spatial Systems - XRCore Ecosystem
+# XRCore Ecosystem
 
 [![Unity](https://img.shields.io/badge/Unity-2022%2B%20%7C%20Unity%206-black)](https://unity.com/)
 [![Category](https://img.shields.io/badge/Category-AI%20%2F%20XR%20Training-1f6feb)](https://github.com/splibiplay?tab=repositories)
@@ -7,29 +7,46 @@
 [![Publisher](https://img.shields.io/badge/Publisher-SPL%20Spatial%20Systems-ec4899)](https://github.com/splibiplay)
 [![License](https://img.shields.io/badge/License-MIT-84cc16)](https://github.com/splibiplay/xrcore-sdk/blob/main/LICENSE)
 
-Official XRCore product suite for Unity XR by SPL.
+## Modular AI Agent Framework for Unity XR
 
-## XRCore Ecosystem
+Build intelligent XR assistants, guided training systems, and enterprise-ready assessment workflows using a scalable event-driven architecture.
 
-- **XRCore SDK**  
-  Modular AI agent framework for Unity XR (event-driven architecture).
+XRCore connects:
 
-- **XRCore Training Suite**  
-  Professional training products built on XRCore.
+`Perception -> Events -> Reasoning -> Actions`
 
-## Products
+## Product Suite
 
-- **XRCore SDK**  
-  Repository: [xrcore-sdk](https://github.com/splibiplay/xrcore-sdk)
+### XRCore SDK
+Free foundation framework for AI-driven XR agents.  
+Repository: [xrcore-sdk](https://github.com/splibiplay/xrcore-sdk)
 
-- **XRCore Training Toolkit**  
-  Repository: [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
+### XRCore Training Toolkit
+Guided XR training workflows with reusable validators and feedback systems.  
+Repository: [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
 
-- **XRCore Training Assessment**  
-  Repository: [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
+### XRCore Training Assessment
+Scoring, pass/fail logic, critical failure detection, and exportable reports for measurable XR training.  
+Repository: [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
 
-- **XRCore Authoring**  
-  Coming soon.
+### Coming Next
+- XRCore Training Authoring
+- XRCore Voice Instructor
+- XRCore Vision Pack
+
+## Visual Roadmap
+
+```text
+XRCore SDK
+   ↓
+Training Toolkit
+   ↓
+Training Assessment
+   ↓
+Training Authoring
+   ↓
+Voice + Vision + Analytics
+```
 
 ## Demo Videos
 
@@ -37,10 +54,17 @@ Official XRCore product suite for Unity XR by SPL.
 - Training Toolkit demo: [XRCore Training Toolkit Demo](https://www.youtube.com/watch?v=NmwTmtryts8&list=PLdX4Fo1P__hpMhe5PJsSRt3a8O02E0dr3&index=2)
 - Training Assessment demo: [XRCore Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
 
-## Asset Store
+## Links
 
-- Publisher page: [Unity Asset Store Publishers](https://assetstore.unity.com/publishers)
+- Asset Store Publisher Page: [Unity Asset Store Publishers](https://assetstore.unity.com/publishers)
+- YouTube Demos:
+  - [Training Toolkit Demo](https://www.youtube.com/watch?v=NmwTmtryts8&list=PLdX4Fo1P__hpMhe5PJsSRt3a8O02E0dr3&index=2)
+  - [Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
+- Official Repositories:
+  - [xrcore-sdk](https://github.com/splibiplay/xrcore-sdk)
+  - [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
+  - [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
 
 ---
 
-Building an official XR product line for training, guidance, and measurable assessment in spatial computing.
+SPL Spatial Systems is building an official product ecosystem for guided XR training and measurable assessment in Unity.
