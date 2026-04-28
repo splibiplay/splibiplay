@@ -19,6 +19,13 @@ XRCore connects:
 
 `Perception -> Events -> Reasoning -> Actions`
 
+## Why XRCore
+
+- **What is XRCore?** A product ecosystem for Unity XR teams building intelligent assistants, guided training, and measurable assessment.
+- **Why should I care?** It reduces custom one-off scene logic and helps teams ship reusable, enterprise-grade XR workflows faster.
+- **What products exist?** XRCore SDK, XRCore Training Toolkit, and XRCore Training Assessment.
+- **Where do I start?** Start with XRCore SDK, then add Toolkit, then Assessment.
+
 ## Product Suite
 
 ### XRCore SDK
@@ -41,13 +48,13 @@ Repository: [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
 ## Visual Roadmap
 
 ```text
-XRCore SDK
+Start with XRCore SDK
    ↓
-Training Toolkit
+Add Training Toolkit
    ↓
-Training Assessment
+Add Training Assessment
    ↓
-Training Authoring
+Scale with Training Authoring
    ↓
 Voice + Vision + Analytics
 ```
@@ -61,6 +68,10 @@ Voice + Vision + Analytics
 ## Links
 
 - Asset Store Publisher Page: [Unity Asset Store Publishers](https://assetstore.unity.com/publishers)
+- Start Here:
+  - [XRCore SDK](https://github.com/splibiplay/xrcore-sdk)
+  - [XRCore Training Toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
+  - [XRCore Training Assessment](https://github.com/splibiplay/xrcore-assessment)
 - YouTube Demos:
   - [Training Toolkit Demo](https://www.youtube.com/watch?v=NmwTmtryts8&list=PLdX4Fo1P__hpMhe5PJsSRt3a8O02E0dr3&index=2)
   - [Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
