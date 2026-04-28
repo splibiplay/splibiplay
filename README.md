@@ -28,7 +28,7 @@ Official XRCore product suite for Unity XR.
 
 - SDK demo: coming soon
 - Training Toolkit demo: coming soon
-- Training Assessment demo: coming soon
+- Training Assessment demo: [XRCore Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
 
 ## Asset Store
 
