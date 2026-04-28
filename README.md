@@ -1,10 +1,6 @@
 # XRCore Ecosystem
 
 <p align="center">
-  <img src="./assets/spl-spatial-systems-logo.png" alt="SPL Spatial Systems Logo" width="220" />
-</p>
-
-<p align="center">
   <img src="./assets/spl-spatial-systems-banner.png" alt="SPL Spatial Systems Banner" />
 </p>
 
