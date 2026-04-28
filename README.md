@@ -1,5 +1,13 @@
 # XRCore Ecosystem
 
+<p align="center">
+  <img src="./assets/spl-spatial-systems-logo.png" alt="SPL Spatial Systems Logo" width="220" />
+</p>
+
+<p align="center">
+  <img src="./assets/spl-spatial-systems-banner.png" alt="SPL Spatial Systems Banner" />
+</p>
+
 [![Unity](https://img.shields.io/badge/Unity-2022%2B%20%7C%20Unity%206-black)](https://unity.com/)
 [![Category](https://img.shields.io/badge/Category-AI%20%2F%20XR%20Training-1f6feb)](https://github.com/splibiplay?tab=repositories)
 [![Suite](https://img.shields.io/badge/Suite-XRCore%20Ecosystem-7a3cff)](https://github.com/splibiplay?tab=repositories)
