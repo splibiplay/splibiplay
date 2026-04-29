@@ -23,8 +23,8 @@ XRCore connects:
 
 - **What is XRCore?** A product ecosystem for Unity XR teams building intelligent assistants, guided training, and measurable assessment.
 - **Why should I care?** It reduces custom one-off scene logic and helps teams ship reusable, enterprise-grade XR workflows faster.
-- **What products exist?** XRCore SDK, XRCore Training Toolkit, and XRCore Training Assessment.
-- **Where do I start?** Start with XRCore SDK, then add Toolkit, then Assessment.
+- **What products exist?** XRCore SDK, XRCore Training Toolkit, XRCore Training Assessment, and XRCore Training Authoring.
+- **Where do I start?** Start with XRCore SDK, then add Toolkit, then Assessment, then Authoring.
 
 ## Product Suite
 
@@ -40,8 +40,11 @@ Repository: [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-train
 Scoring, pass/fail logic, critical failure detection, and exportable reports for measurable XR training.  
 Repository: [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
 
+### XRCore Training Authoring
+Visual authoring and production acceleration layer for scalable scenario generation.  
+Repository: [xrcore-training-authoring](https://github.com/splibiplay/xrcore-training-authoring)
+
 ### Coming Next
-- XRCore Training Authoring
 - XRCore Voice Instructor
 - XRCore Vision Pack
 
@@ -72,6 +75,7 @@ Voice + Vision + Analytics
   - [XRCore SDK](https://github.com/splibiplay/xrcore-sdk)
   - [XRCore Training Toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
   - [XRCore Training Assessment](https://github.com/splibiplay/xrcore-assessment)
+  - [XRCore Training Authoring](https://github.com/splibiplay/xrcore-training-authoring)
 - YouTube Demos:
   - [Training Toolkit Demo](https://www.youtube.com/watch?v=NmwTmtryts8&list=PLdX4Fo1P__hpMhe5PJsSRt3a8O02E0dr3&index=2)
   - [Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
@@ -79,6 +83,7 @@ Voice + Vision + Analytics
   - [xrcore-sdk](https://github.com/splibiplay/xrcore-sdk)
   - [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
   - [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
+  - [xrcore-training-authoring](https://github.com/splibiplay/xrcore-training-authoring)
 
 ---
 
