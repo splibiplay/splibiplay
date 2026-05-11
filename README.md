@@ -14,12 +14,14 @@ XRCore is a modular product line for Unity XR teams that need guided workflows, 
 
 Core architecture:
 
-`Perception -> Events -> Reasoning -> Action -> Analytics`
+`Perception -> Events -> Reasoning -> Action -> Context -> Analytics`
 
 ## Start Here
 
 ```text
 Start with XRCore SDK
+        ↓
+Add XRCore Context
         ↓
 Add Training Toolkit
         ↓
@@ -36,6 +38,10 @@ Add Voice / VisionPlus / LLBridge / Analytics
 - **XRCore SDK**  
   Event-driven runtime foundation for XR assistants.  
   [Repository](https://github.com/splibiplay/xrcore-sdk)
+
+- **XRCore Context**  
+  Shared runtime memory and context contracts for all modules.  
+  [Repository](https://github.com/splibiplay/xrcore-context)
 
 ### Training Stack
 - **XRCore Training Toolkit**  
