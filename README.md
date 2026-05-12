@@ -34,6 +34,10 @@ Add Voice / VisionPlus / LLBridge / Analytics
 
 ## Product Portfolio
 
+Each **Repository** link below is a **public GitHub** source for that module. Install the **published core SDK** from the Unity Asset Store first, then add optional modules via Git URL as documented in each repository:
+
+- [XRCore – Event-Driven AI Framework for Unity XR](https://assetstore.unity.com/packages/tools/ai-ml-integration/xrcore-event-driven-ai-framework-for-unity-xr-366852)
+
 ### Foundation
 - **XRCore SDK**  
   Event-driven runtime foundation for XR assistants.  
