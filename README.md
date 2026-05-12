@@ -85,13 +85,13 @@ Add Voice / VisionPlus / LLBridge / Analytics
 - Training Toolkit demo: [XRCore Training Toolkit Demo](https://www.youtube.com/watch?v=NmwTmtryts8&list=PLdX4Fo1P__hpMhe5PJsSRt3a8O02E0dr3&index=2)
 - Training Assessment demo: [XRCore Training Assessment Demo](https://youtu.be/MpAfoV2tRJY)
 - Spatial Voice Instructor: documentation-only guide (demo assets are intentionally not included yet): [Spatial Voice Instructor Guide](./SPATIAL_VOICE_INSTRUCTOR_GUIDE.md)
-- Spatial Voice Instructor video: [Demo01.mp4](./media/Demo01.mp4)
+- Spatial Voice Instructor video: [Demo01.mp4](https://raw.githubusercontent.com/splibiplay/splibiplay/master/media/Demo01.mp4)
 
 ### Spatial Voice Instructor Preview
 
-[![Spatial Voice Instructor Demo](./assets/spatial-voice-instructor-cover.svg)](./media/Demo01.mp4)
+[![Spatial Voice Instructor Demo](./assets/spatial-voice-instructor-cover.svg)](https://raw.githubusercontent.com/splibiplay/splibiplay/master/media/Demo01.mp4)
 
-Click the cover to open and play the video directly in GitHub.
+Click the cover to open the RAW video URL (works even when GitHub blob preview is blocked by size).
 
 ## Asset Store
 
