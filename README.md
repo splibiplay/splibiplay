@@ -87,6 +87,12 @@ Add Voice / VisionPlus / LLBridge / Analytics
 - Spatial Voice Instructor: documentation-only guide (demo assets are intentionally not included yet): [Spatial Voice Instructor Guide](./SPATIAL_VOICE_INSTRUCTOR_GUIDE.md)
 - Spatial Voice Instructor video: [Demo01.mp4](./media/Demo01.mp4)
 
+### Spatial Voice Instructor Preview
+
+[![Spatial Voice Instructor Demo](./assets/spatial-voice-instructor-cover.svg)](./media/Demo01.mp4)
+
+Click the cover to open and play the video directly in GitHub.
+
 ## Asset Store
 
 - Publisher page: [Unity Asset Store Publishers](https://assetstore.unity.com/publishers)

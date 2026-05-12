@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Spatial Voice Instructor Demo</title>
+  <desc id="desc">Cover image for the Spatial Voice Instructor demo video.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#4c1d95" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#e879f9" stop-opacity="0.9" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)" />
+  <rect x="56" y="56" width="1168" height="608" rx="28" fill="#0b1220" stroke="url(#glow)" stroke-width="4" />
+
+  <text x="100" y="170" fill="#e2e8f0" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
+    XRCore Spatial Voice Instructor
+  </text>
+  <text x="100" y="230" fill="#94a3b8" font-size="30" font-family="Segoe UI, Arial, sans-serif">
+    Industrial voice-guided training walkthrough
+  </text>
+
+  <circle cx="640" cy="390" r="98" fill="#22d3ee" fill-opacity="0.18" />
+  <circle cx="640" cy="390" r="82" fill="#22d3ee" fill-opacity="0.30" />
+  <polygon points="618,345 618,435 695,390" fill="#ecfeff" />
+
+  <rect x="100" y="530" width="430" height="54" rx="12" fill="#111827" stroke="#334155" />
+  <text x="128" y="566" fill="#67e8f9" font-size="28" font-family="Consolas, Menlo, monospace">
+    Voice -> LLBridge -> Training
+  </text>
+
+  <text x="100" y="632" fill="#cbd5e1" font-size="24" font-family="Segoe UI, Arial, sans-serif">
+    Click to play Demo01.mp4
+  </text>
+</svg>
