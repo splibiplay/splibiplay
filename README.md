@@ -7,7 +7,7 @@
 [![Unity](https://img.shields.io/badge/Unity-2022%2B%20%7C%20Unity%206-black)](https://unity.com/)
 [![Suite](https://img.shields.io/badge/Suite-XRCore%20Ecosystem-7a3cff)](https://github.com/splibiplay?tab=repositories)
 [![Architecture](https://img.shields.io/badge/Architecture-Event--Driven-0ea5e9)](https://github.com/splibiplay/xrcore-sdk)
-[![Distribution](https://img.shields.io/badge/Distribution-Modular%20%2B%20Complete%20Pack-f59e0b)](https://assetstore.unity.com/publishers)
+[![XRCore on Asset Store](https://img.shields.io/badge/XRCore-Unity%20Asset%20Store-f59e0b)](https://assetstore.unity.com/packages/tools/ai-ml-integration/xrcore-event-driven-ai-framework-for-unity-xr-366852)
 [![Publisher](https://img.shields.io/badge/Publisher-SPL%20Spatial%20Systems-ec4899)](https://github.com/splibiplay)
 
 XRCore is a modular product line for Unity XR teams that need guided workflows, measurable outcomes, and scalable authoring.
@@ -37,7 +37,7 @@ Add Voice / VisionPlus / LLBridge / Analytics
 ### Foundation
 - **XRCore SDK**  
   Event-driven runtime foundation for XR assistants.  
-  [Repository](https://github.com/splibiplay/xrcore-sdk)
+  [Repository](https://github.com/splibiplay/xrcore-sdk) · [Unity Asset Store](https://assetstore.unity.com/packages/tools/ai-ml-integration/xrcore-event-driven-ai-framework-for-unity-xr-366852)
 
 - **XRCore Context**  
   Shared runtime memory and context contracts for all modules.  
@@ -75,6 +75,7 @@ Add Voice / VisionPlus / LLBridge / Analytics
 
 ## Commercial Model
 
+- **XRCore (published):** [Unity Asset Store listing](https://assetstore.unity.com/packages/tools/ai-ml-integration/xrcore-event-driven-ai-framework-for-unity-xr-366852)
 - **Modular path:** buy only the modules you need.
 - **Complete Pack path:** full ecosystem bundle with lower total price than separate modules.
 - **Upgrade path:** start with SDK + Toolkit, then add capabilities per project maturity.
@@ -96,7 +97,7 @@ Click the thumbnail to watch on YouTube. The [raw MP4](https://raw.githubusercon
 
 ## Asset Store
 
-- Publisher page: [Unity Asset Store Publishers](https://assetstore.unity.com/publishers)
+- **XRCore – Event-Driven AI Framework for Unity XR:** [Unity Asset Store](https://assetstore.unity.com/packages/tools/ai-ml-integration/xrcore-event-driven-ai-framework-for-unity-xr-366852)
 
 ---
 
