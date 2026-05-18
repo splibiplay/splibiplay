@@ -14,7 +14,7 @@ XRCore is a modular product line for Unity XR teams that need guided workflows, 
 
 Core architecture:
 
-`Perception -> Events -> Reasoning -> Action -> Context -> Analytics`
+`Perception -> Events -> Capability Registry -> Reasoning -> Action -> Context -> Analytics`
 
 ## Start Here
 
@@ -29,7 +29,11 @@ Add Assessment
         ↓
 Scale with Authoring
         ↓
-Add Voice / VisionPlus / LLBridge / Analytics
+Add Voice / VisionPlus / LLBridge
+        ↓
+Add AI Capability Layer + AI MCP Adapter
+        ↓
+Add Analytics
 ```
 
 ## Product Portfolio
@@ -72,6 +76,15 @@ Each **Repository** link below is a **public GitHub** source for that module. In
 - **XRCore LLBridge**  
   Bridge layer between XR events and LLM orchestration.  
   [Repository](https://github.com/splibiplay/xrcore-llbridge)
+
+### AI Capability Stack
+- **XRCore AI**  
+  Neutral capability layer where domain modules register AI tools.  
+  [Repository](https://github.com/splibiplay/xrcore-ai)
+
+- **XRCore AI MCP Adapter**  
+  Adapter layer that exposes XRCore AI capabilities to external tool connectors.  
+  [Repository](https://github.com/splibiplay/xrcore-ai-mcp)
 
 - **XRCore Analytics**  
   Cross-module telemetry and operational KPIs.  
