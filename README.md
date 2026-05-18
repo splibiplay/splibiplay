@@ -29,7 +29,7 @@ Add Assessment
         ↓
 Scale with Authoring
         ↓
-Add Voice / VisionPlus / LLBridge
+Add Voice / VisionPlus / LLM Bridge
         ↓
 Add AI Capability Layer + AI MCP Adapter
         ↓
@@ -73,7 +73,7 @@ Each **Repository** link below is a **public GitHub** source for that module. In
   Vision-driven scene intelligence and perception hooks.  
   [Repository](https://github.com/splibiplay/xrcore-visionplus)
 
-- **XRCore LLBridge**  
+- **XRCore LLM Bridge**  
   Bridge layer between XR events and LLM orchestration.  
   [Repository](https://github.com/splibiplay/xrcore-llbridge)
 
